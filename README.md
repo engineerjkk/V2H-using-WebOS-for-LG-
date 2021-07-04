@@ -20,3 +20,13 @@
 1. 집에 도착하기전 미리 에어컨을 켜줌으로써 시원한 실내환경을 만들고 불을 킴으로써 들어가자마자 환한 실내환경에 들어갈 수 있다.
 2. 공유경제 서비스가 활성화 되고 있어 고객에게 편리하고 투명한 요금청구 서비스를 할 수 있다.
 3. 1번의 경우 모바일에서도 할 수는 있지만 모바일보다 모빌리티 서비스 시장이 커지는 만큼 모바일을 거치지 않고 바로 모빌리티에서 작업을 수행한다. 
+
+# HardWare
+### BOM
+![image](https://user-images.githubusercontent.com/76835313/124378459-5c11e000-dcec-11eb-9657-5b64cefc6ab8.png)
+### Circuit Design
+![image](https://user-images.githubusercontent.com/76835313/124378469-67650b80-dcec-11eb-9178-f6a75f4ad2a7.png)
+### PCB Layout Example
+![image](https://user-images.githubusercontent.com/76835313/124378507-9b403100-dcec-11eb-87a6-1cf5fb4c2169.png)
+### 참고 링크
+https://www.youtube.com/watch?v=HK3qpyeSOcY
