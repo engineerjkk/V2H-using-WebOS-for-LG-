@@ -52,3 +52,14 @@ C:\Users\rkdwn\VirtualBox VMs\webos-image\webos-image -> 나는 여기에다가 
 
 ![image](https://user-images.githubusercontent.com/76835313/125780324-e93a0cc1-68a3-4ed2-81fb-8207a2efbc4e.png)  
 아마 여기서 heted_webapp을 통해 유투브로 넘어갔으니 위에서 실습했던 esp82를 통하여 버튼을 누르면 웹페이지로 이동하면서 LED가 켜지는 것을 구현하면 좋을 것같다.
+
+![image](https://user-images.githubusercontent.com/76835313/125782219-fa3cf680-b6ea-4a18-8c67-60f6b664a732.png)  
+![image](https://user-images.githubusercontent.com/76835313/125782276-119d8218-3820-412b-a19c-bf422a07ce99.png)  
+
+에뮬레이터에서 생성한 앱이다. Hello, WebApplication!! 문구가 담겨있다.
+
+![image](https://user-images.githubusercontent.com/76835313/125782694-a1c9c5e0-36a5-459a-a089-fc5e45e7cef6.png)
+![image](https://user-images.githubusercontent.com/76835313/125782766-f9cf5dec-0b6e-4d87-a68f-f2c78e9708ca.png)
+![image](https://user-images.githubusercontent.com/76835313/125784917-08a46b15-beda-4d4f-af13-f2c1e6b1f4ba.png)
+
+명령 프롬프트에서 다음과 같은 명령을 입력하자 수정할수있도록 open 돼 있다.
