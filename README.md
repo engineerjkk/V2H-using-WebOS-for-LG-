@@ -63,3 +63,8 @@ C:\Users\rkdwn\VirtualBox VMs\webos-image\webos-image -> 나는 여기에다가 
 ![image](https://user-images.githubusercontent.com/76835313/125784917-08a46b15-beda-4d4f-af13-f2c1e6b1f4ba.png)
 
 명령 프롬프트에서 다음과 같은 명령을 입력하자 수정할수있도록 open 돼 있다.
+
+![image](https://user-images.githubusercontent.com/76835313/125788156-7acd5014-2bd6-435f-b85a-9099b9e454c7.png)
+
+에뮬레이터 상에서 코드를 수정했는데 실제 virtualBox상의 webOS또한 바뀌었다. 이전에 ip를 연결해줘서 그렇다
+실제 코드는 window상에서 해도 되고 라즈베리파이상 webOS에서 해도될듯 하다.
