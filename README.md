@@ -43,3 +43,9 @@ https://www.youtube.com/watch?v=HK3qpyeSOcY
 
 * [WebOS란 무엇인가](https://webos-supporters.tistory.com/8)
 * [Index of WebOSose](http://build.webos-ports.org/webosose/)
+--------------------
+webOS
+[이미지파일 다운로드](http://build.webos-ports.org/webosose/qemux86/build-361-v2.11.0/)
+virtual box를 통해 구현한 화면. 이미지를 기존의 C 주소에 넣어야하는듯 하다.  
+C:\Users\rkdwn\VirtualBox VMs\webos-image\webos-image -> 나는 여기에다가 넣었다.  
+![image](https://user-images.githubusercontent.com/76835313/125741276-294c355d-8dcb-40a2-86f9-6411c00b1010.png)
