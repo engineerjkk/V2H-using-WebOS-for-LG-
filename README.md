@@ -50,5 +50,5 @@ virtual box를 통해 구현한 화면. 이미지를 기존의 C 주소에 넣�
 C:\Users\rkdwn\VirtualBox VMs\webos-image\webos-image -> 나는 여기에다가 넣었다.  
 ![image](https://user-images.githubusercontent.com/76835313/125741276-294c355d-8dcb-40a2-86f9-6411c00b1010.png)
 
-![image](https://user-images.githubusercontent.com/76835313/125780193-d7ac93da-d645-4056-a21c-37d601d43558.png)
+![image](https://user-images.githubusercontent.com/76835313/125780324-e93a0cc1-68a3-4ed2-81fb-8207a2efbc4e.png)  
 아마 여기서 heted_webapp을 통해 유투브로 넘어갔으니 위에서 실습했던 esp82를 통하여 버튼을 누르면 웹페이지로 이동하면서 LED가 켜지는 것을 구현하면 좋을 것같다.
