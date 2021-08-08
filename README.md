@@ -32,7 +32,10 @@
 ![image](https://user-images.githubusercontent.com/76835313/124378507-9b403100-dcec-11eb-87a6-1cf5fb4c2169.png)
 ### 참고 링크
 https://www.youtube.com/watch?v=HK3qpyeSOcY
+---
+![image](https://user-images.githubusercontent.com/76835313/128623362-b17d1256-bbf2-4962-89f8-32b41c739736.png)
 
+---
 
 # Rasberry Pi
 라즈베리 파이 상에서 음성인식 서비스 구현 전에 프로토 타입으로 버튼을 누르면 해당 서버로 접속한다.
